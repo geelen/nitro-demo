@@ -8,3 +8,4 @@
 - Azure Functions: https://nuxt-sigma.azurewebsites.net
 - Azure Static Web Apps: https://nitro-azure-demo.nuxtjs.org/
 
+HELLO
